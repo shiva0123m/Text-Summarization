@@ -33,10 +33,12 @@ bash
 -  run app.py
 
 ## Basic code for summmarization
-from text_analysis_tool import summarize_text
-text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
-summary = summarize_text(text)
-print(summary)
+- from text_analysis_tool import summarize_text
+- text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+- summary = summarize_text(text)
+   print(summary)
+
+## clone this project
 
 
 
