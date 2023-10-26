@@ -1,4 +1,4 @@
-### Text Analysis Project README
+## Text Analysis Project 
 ## Project Overview
 ![image](https://github.com/shiva0123m/Text-Summarization/assets/117260868/c4d6ec32-eb9b-4778-94f7-040dd6d81de2)
 
