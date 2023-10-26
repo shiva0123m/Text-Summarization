@@ -15,22 +15,22 @@ Input and output formats
 
 ## Getting Started
 # perform preprocessing of total data
-  # It include
-  tokenization
-  lemmatization
-  bag of words
-  tf-idf
-  wieghtage of words
+   It include
+  -   tokenization
+  -  lemmatization
+  -  bag of words
+  -  tf-idf
+  -  wieghtage of words
 
 bash
 # Installation
-pip install -requirement.txt
+-  pip install -requirement.txt
   contians:
-   pandas 
-   spacy
-   numpy
+   -  pandas 
+   -  spacy
+   -  numpy
 # run
-run app.py
+-  run app.py
 
 ## Basic code for summmarization
 from text_analysis_tool import summarize_text
