@@ -1,4 +1,4 @@
-## Text Analysis Project 
+# Text Analysis Project 
 ## Project Overview
 ![image](https://github.com/shiva0123m/Text-Summarization/assets/117260868/c4d6ec32-eb9b-4778-94f7-040dd6d81de2)
 
@@ -14,7 +14,7 @@ Language support
 Input and output formats
 
 ## Getting Started
-# perform preprocessing of total data
+### perform preprocessing of total data
    It include
   -   tokenization
   -  lemmatization
@@ -23,13 +23,13 @@ Input and output formats
   -  wieghtage of words
 
 bash
-# Installation
+## Installation
 -  pip install -requirement.txt
   contians:
    -  pandas 
    -  spacy
    -  numpy
-# run
+## run
 -  run app.py
 
 ## Basic code for summmarization
